@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    font-family: 'Montserrat',sans-serif;
+    min-height: 100vh;
+    color: #555;
+    background-image: url(imgs/universe.jpg);
+
+
+
+
+}
+
+h2{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.products{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(350px,auto));
+    grid-gap: 50px;
+    margin: 50px auto;
+    max-width: 1240px;
+    padding: 100px;
+
+}
+.product{
+    background: whitesmoke;
+    padding: 10px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0,0.2);
+    border-radius: 25px;
+}
+
+.product img{
+border-radius: 25px;
+width: 100%;
+display: block;
+
+}
+
+.product .title{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+
+.product .description{
+    text-align: center;
+    padding: 0px 20px 20px 20px;
+    line-height: 22px;
+}
+
+.product .price{
+    text-align: center;
+    font-weight: 600;
+    color: rgb(254, 83, 20);
+    padding-top: 30px;
+    text-shadow: 0 5px 5px rgba(254, 49, 5, 0.5);
+}
+
+.titulos{
+    padding-top: 100px;
+    color: whitesmoke;
+    text-align: center;
+}
+button{
+    align-items: center;
+}

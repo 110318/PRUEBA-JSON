@@ -1,0 +1,73 @@
+[{
+    "id":1,
+    "name":"Mingyu Sticker",
+    "image":"./imgs/mingyu.png",
+    "description": "Schoolar Books",
+    "price": 6000,
+    "collection": "BTS",
+    "category": "Sticker",
+    "color": "purple"
+   
+},
+{
+    "id":2,
+    "name":"Joshua Sticker",
+    "image":"./imgs/joshua.png",
+    "description": "Books",
+    "price": 8000,
+    "collection": "BTS",
+    "category": "Sticker",
+    "color": "blue"
+},
+{
+    "id":3,
+    "name":"Scoups Sticker",
+    "image":"./imgs/scoups.png",
+    "description": "Schoolar Books",
+    "price": 5000,
+    "collection": "BTS",
+    "category": "Sticker",
+    "color": "rose"
+},
+{
+    "id":3,
+    "name":"Scoups Sticker",
+    "image":"./imgs/scoups.png",
+    "description": "Schoolar Books",
+    "price": 5000,
+    "collection": "BTS",
+    "category": "Sticker",
+    "color": "rose"
+},
+{
+    "id":3,
+    "name":"Scoups Sticker",
+    "image":"./imgs/scoups.png",
+    "description": "Schoolar Books",
+    "price": 5000,
+    "collection": "BTS",
+    "category": "Sticker",
+    "color": "rose"
+},
+{
+    "id":3,
+    "name":"Scoups Sticker",
+    "image":"./imgs/scoups.png",
+    "description": "Schoolar Books",
+    "price": 5000,
+    "collection": "BTS",
+    "category": "Sticker",
+    "color": "rose"
+},
+{
+    "id":3,
+    "name":"Scoups Sticker",
+    "image":"./imgs/scoups.png",
+    "description": "Schoolar Books",
+    "price": 5000,
+    "collection": "BTS",
+    "category": "Sticker",
+    "color": "rose"
+}
+
+]
